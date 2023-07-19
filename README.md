@@ -27,4 +27,13 @@ The United States, Canada, and Australia are at the top of the ranking. These 3 
 
 Finally, for these countries, a market study should be carried out in order to identify the competitors or study the habits of the population and their interests in order to better adapt the offer, the courses and identify the best business model to adopt.
 
+## Aquired skills
+
+-	Set up a Python environment
+-	Perform a graphical representation using a suitable Python library
+-	Data manipulation with specialized Python libraries
+-	Master the fundamental operations of the Python language for Data Science
+-	Use a Jupyter notebook to facilitate code writing and collaboration
+
+
 
